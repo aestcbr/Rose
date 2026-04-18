@@ -1,0 +1,12 @@
+{
+  "roses": [
+    {
+      "color": "Red",
+      "meaning": "Love"
+    },
+    {
+      "color": "White",
+      "meaning": "Purity"
+    }
+  ]
+}
